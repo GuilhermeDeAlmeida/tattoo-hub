@@ -1,0 +1,19 @@
+{
+  "name": "contatinho-manager-back",
+  "version": "1.0.0",
+  "description": "App para ajudar as pessoas com o gerenciamento de seus contatinhos",
+  "main": "app.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "orm": "https://github.com/kennydude/node-orm2/tarball/master"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme de Almeida Freitas",
+  "license": "ISC"
+}
